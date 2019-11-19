@@ -93,7 +93,7 @@ This lab demonstrates the power of `Function`s as first-class data. We can
 stack them up in `Arrays` or assign them inside of `Objects` or save them to
 variables, or iterate over them. Instead of _merely_ having `Array`s of
 `String`s and other familiar items, we can stuff them with _work_. And that's
-nothing short of amazing!
+nothing short of amazing! 
 
 [First Class Functions MDN](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function)
 
